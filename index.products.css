@@ -1,0 +1,42 @@
+@charset="utf-8";
+
+html {
+    margin-top: 5em;
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 5em;
+    background: #422311;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #EE964D;
+  padding: 10px;    
+}
+
+.topnav a {
+  float:none;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 5.8em;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover {
+  background-color: lightskyblue;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: greenyellow;
+  color: white;
+}
+
+footer {
+    background-color: #EE964D;
+    padding: 2em;
+    text-align: center;
+    
+}
+
